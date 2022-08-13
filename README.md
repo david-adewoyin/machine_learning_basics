@@ -1,5 +1,5 @@
 # Basic Machine learning from scratch
-
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/david-adewoyin/machine_learning_from_scatch/HEAD)  
 This repository contains implementations of basic machine learning algorithms in Python from scratch.
 The essence of this respository is to show how popular machine learning algorithms are implemented from scratch, with descriptions about each one and how they work
 .  
