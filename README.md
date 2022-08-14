@@ -5,11 +5,13 @@ The essence of this respository is to show how popular machine learning algorith
 .  
 Emphasis is placed on how they work and you can find better and more efficients implementations of them in popular machine learning libraries such as sckit-learn :star:  
 
-- Linear Regression
+- [Perceptron](https://github.com/david-adewoyin/machine_learning_from_scatch/blob/main/perceptron.ipynb)
+- [K-Nearest Neighbor](https://github.com/david-adewoyin/machine_learning_from_scatch/blob/main/k_nearest_neighbors.ipynb)
+- [Linear Regression](https://github.com/david-adewoyin/machine_learning_from_scatch/blob/main/linear_regression.ipynb)
 - Linear Regression with both L1 and L2 Regularization
 - Logistic Regression
 - Logistic Regression with both L1 and L2 Regularization
-- K-Nearest Neighbor
+
 
 ## Feedback
 If you have a favourite algorithm that is missing or you spot a mistake in any of the notebook, please let know by creating a new issue
