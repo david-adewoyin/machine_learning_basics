@@ -4,13 +4,12 @@ This repository contains implementations of basic machine learning algorithms in
 The essence of this respository is to show how popular machine learning algorithms are implemented from scratch, with descriptions about each one and how they work
 .  
 Emphasis is placed on how they work and you can find better and more efficients implementations of them in popular machine learning libraries such as sckit-learn :star:  
-
+### Regression Algorithms :chart_with_upwards_trend::
+- [Linear Regression](https://github.com/david-adewoyin/machine_learning_from_scatch/blob/main/linear_regression.ipynb)
+- [Polynomial Regression](https://github.com/david-adewoyin/machine_learning_basics/blob/main/polynomial_regression.ipynb)
+### Classification Algorithms :abc::
 - [Perceptron](https://github.com/david-adewoyin/machine_learning_from_scatch/blob/main/perceptron.ipynb)
 - [K-Nearest Neighbor](https://github.com/david-adewoyin/machine_learning_from_scatch/blob/main/k_nearest_neighbors.ipynb)
-- [Linear Regression](https://github.com/david-adewoyin/machine_learning_from_scatch/blob/main/linear_regression.ipynb)
-- Linear Regression with both L1 and L2 Regularization
-- Logistic Regression
-- Logistic Regression with both L1 and L2 Regularization
 
 
 ## Feedback
