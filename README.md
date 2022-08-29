@@ -11,6 +11,7 @@ Emphasis is placed on how they work and you can find better and more efficients 
 ### Classification Algorithms :abc::
 - [Perceptron](https://github.com/david-adewoyin/machine_learning_from_scatch/blob/main/perceptron.ipynb)
 - [Logistic Regression](https://github.com/david-adewoyin/machine_learning_from_scatch/blob/main/logistic_regression.ipynb)
+- [Softmax Regression](https://github.com/david-adewoyin/machine_learning_from_scatch/blob/main/_regression.ipynb)
 - [K-Nearest Neighbor](https://github.com/david-adewoyin/machine_learning_from_scatch/blob/main/k_nearest_neighbors.ipynb)
 
 
