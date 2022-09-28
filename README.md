@@ -15,7 +15,7 @@ Emphasis is placed on how they work and you can find better and more efficients 
 - [K-Nearest Neighbor](https://github.com/david-adewoyin/machine_learning_from_scatch/blob/main/k_nearest_neighbors.ipynb)
 
 ### Clustering Algorithms :abc::
-- [K-Means](https://github.com/david-adewoyin/machine_learning_from_scatch/blob/main/k_means_clustering.ipynb)
+- [K-Means](https://github.com/david-adewoyin/machine_learning_basics/blob/main/kmeans_clustering.ipynb)
 
 
 
