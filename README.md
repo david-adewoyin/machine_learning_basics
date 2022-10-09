@@ -17,6 +17,9 @@ Emphasis is placed on how they work and you can find better and more efficients 
 ### Clustering Algorithms :abc::
 - [K-Means](https://github.com/david-adewoyin/machine_learning_basics/blob/main/kmeans_clustering.ipynb)
 
+### Tree based Algorithms :evergreen_tree::
+- [Decision Tree Classifier](https://github.com/david-adewoyin/machine_learning_basics/blob/main/decision_tree.ipynb))
+- [Bagging](https://github.com/david-adewoyin/machine_learning_basics/blob/main/bagging_decision_tree.ipynb))
 
 
 ## Techniques and Machine learning concepts :star2::
