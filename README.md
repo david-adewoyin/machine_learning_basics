@@ -6,6 +6,7 @@
 - [Linear Regression](https://github.com/david-adewoyin/machine_learning_from_scatch/blob/main/linear_regression.ipynb)
 - [Polynomial Regression](https://github.com/david-adewoyin/machine_learning_basics/blob/main/polynomial_regression.ipynb)
 - [Ridge Regression (L2 Regularization)](https://github.com/david-adewoyin/machine_learning_basics/blob/main/ridge_regression.ipynb)
+
 #### Classification Algorithms :abc::
 - [Perceptron](https://github.com/david-adewoyin/machine_learning_from_scatch/blob/main/perceptron.ipynb)
 - [Logistic Regression](https://github.com/david-adewoyin/machine_learning_from_scatch/blob/main/logistic_regression.ipynb)
@@ -14,13 +15,14 @@
 
 
 #### Tree based Algorithms :evergreen_tree::
-- [Decision Tree Classifier](https://github.com/david-adewoyin/machine_learning_basics/blob/main/decision_tree.ipynb)
-- [Bagging](https://github.com/david-adewoyin/machine_learning_basics/blob/main/bagging_decision_tree.ipynb)   
+- [Decision Tree](https://github.com/david-adewoyin/machine_learning_basics/blob/main/decision_tree.ipynb)
+- [Bagging Decision Tree](https://github.com/david-adewoyin/machine_learning_basics/blob/main/bagging_decision_tree.ipynb)   
+- [Random Forest](https://github.com/david-adewoyin/machine_learning_basics/blob/main/random_forest.ipynb)   
 
 #### Clustering Algorithms :abc::
 - [K-Means](https://github.com/david-adewoyin/machine_learning_basics/blob/main/kmeans_clustering.ipynb)
 
-## Techniques and Machine learning concepts :star2::
+### Techniques and Machine learning concepts :star2::
 - [Overfitting](https://github.com/david-adewoyin/machine_learning_basics/blob/main/overfitting.ipynb)
 
 ## Feedback
