@@ -1,6 +1,6 @@
 # Basic Machine learning from scratch :computer::sparkles:
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/david-adewoyin/machine_learning_from_scatch/HEAD)  
-> This repository contains implementations of basic machine learning algorithms in Python from scratch. Emphasis is placed on how they are implemented and you can find more efficients implementations of them in popular machine learning libraries such as sckit-learn :star: 
+> This repository contains implementations of popular machine learning algorithms using Python from scratch. Emphasis is placed on how they are implemented and you can find more efficients implementations of them in popular machine learning libraries such as sckit-learn :star: 
 
 #### Regression Algorithms :chart_with_upwards_trend::
 - [Linear Regression](https://github.com/david-adewoyin/machine_learning_from_scatch/blob/main/linear_regression.ipynb)
